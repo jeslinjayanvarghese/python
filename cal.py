@@ -4,7 +4,3 @@ def add(x,y):
 def sub(x,y):
     z=x-y
     print(z)
-a=10
-b=20
-add(a,b)
-sub(a,b)
